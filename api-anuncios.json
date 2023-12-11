@@ -1,15 +1,9 @@
 
 {
-    "dia":"19",
+    "dia":19,
     "mes":"Abril",
     "titulo":"Arriendo Estacionamiento ",
     "descripcion":"amplio espacio y bodega",
     "precio":70.000
-},
-{
-    "dia":"04",
-    "mes":"Agosto",
-    "titulo":"Clases de Armónica",
-    "descripcion":"clases, tecnicas, improvisación",
-    "precio":10.000
-},
+}
+
