@@ -1,0 +1,7 @@
+{
+    "dia":"string",
+    "mes":"string",
+    "titulo":"string",
+    "descripcion":"string",
+    "precio":"string"
+}
