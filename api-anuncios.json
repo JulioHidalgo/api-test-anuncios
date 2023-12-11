@@ -1,9 +1,7 @@
-
 {
-    "dia":19,
-    "mes":"Abril",
-    "titulo":"Arriendo Estacionamiento ",
-    "descripcion":"amplio espacio y bodega",
-    "precio":70.000
+    "dia":"string",
+    "mes":"string",
+    "titulo":"string",
+    "descripcion":"string",
+    "precio":"string"
 }
-
