@@ -1,7 +1,7 @@
 {
-    "dia":"string",
-    "mes":"string",
-    "titulo":"string",
-    "descripcion":"string",
-    "precio":"string"
+    "dia":"12",
+    "mes":"Mayo",
+    "titulo":"Clases de Armónica",
+    "descripcion":"clases, tecnicas, improvisación",
+    "precio":10.000
 }
